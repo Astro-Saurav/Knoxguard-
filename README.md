@@ -4,22 +4,6 @@
 
 ---
 
-## 📚 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [API Integration](#api-integration)
-- [Project Structure](#project-structure)
-- [Limitations](#limitations)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
----
 
 ## 📖 About
 
